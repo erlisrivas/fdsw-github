@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-color: #373a3c;
+  background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size:cover;
   background-position: center;
@@ -35,8 +35,4 @@ body {
   .navbar-brand{
     width: 100px;
   }
-.container{
-  align-items: center;
-}
 
-}
